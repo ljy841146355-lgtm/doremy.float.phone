@@ -48,7 +48,9 @@
   --font-size-2xl: 24px; --font-size-3xl: 30px;
 }
 /* 隐藏 Netlify 角标 */
-.netlify-badge {
+#nl-badge,
+.nl-badge {
   display: none !important;
 }
+
 
